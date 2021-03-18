@@ -1,4 +1,4 @@
-#Emitte React Application
+## Emitte React Application
 
 Para instalar as dependencias digite o comando
 ```
