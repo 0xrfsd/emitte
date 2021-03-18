@@ -16,5 +16,5 @@ yarn build
 ```
 
 Feito com <3 em Anápolis, GO
-Competi®
+## Competi®
 
